@@ -8,12 +8,12 @@ import About from './componenets/About';
 import Alert from './componenets/Alert';
 
 
-// import {   
-//   BrowserRouter as Router,
-//   Switch,
-//   Route,
+import {   
+  BrowserRouter as Router,
+  Switch,
+  Route,
  
-// } from "react-router-dom";
+} from "react-router-dom";
 
 
 function App() {
